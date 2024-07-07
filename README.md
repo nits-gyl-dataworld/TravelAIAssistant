@@ -36,10 +36,10 @@ The Travel Itinerary Generator App is a tool that helps users plan their trips b
 
 ** App Screenshots**
 
-<img alt="App" src="/images/uml/img1.png" title="App"/>  
-<img alt="App" src="/images/uml/img2.png" title="App"/>  
-<img alt="App" src="/images/uml/img3.png" title="App"/>  
-<img alt="App" src="/images/uml/im4.png" title="App"/>  
+<img alt="App" src="/images/app/img1.png" title="App"/>  
+<img alt="App" src="/images/app/img2.png" title="App"/>  
+<img alt="App" src="/images/app/img3.png" title="App"/>  
+<img alt="App" src="/images/app/im4.png" title="App"/>  
 
 
 ## Installation and Usage
