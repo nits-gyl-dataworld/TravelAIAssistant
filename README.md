@@ -25,24 +25,22 @@ The Travel Itinerary Generator App is a tool that helps users plan their trips b
 ## How It Works
 
 1. **User Input**: The user provides the travel destination, start and end dates, and selects their interests.
-   
-   ![User Input](https://your-image-link.com/screenshot2.png)
 
 2. **Data Extraction**: The app reads from a CSV file to get the accommodation cost for the specified destination.
-   
-   ![Data Extraction](https://your-image-link.com/screenshot3.png)
 
 3. **OpenAI Prompt**: The app constructs a prompt based on user input and sends it to OpenAI to generate an itinerary.
-   
-   ![OpenAI Prompt](https://your-image-link.com/screenshot4.png)
 
 4. **Itinerary Generation**: OpenAI returns a structured JSON response with the itinerary, which the app parses and displays.
-   
-   ![Itinerary Generation](https://your-image-link.com/screenshot5.png)
 
 5. **Hotel Suggestions**: Based on the accommodation cost, the app suggests hotels within the user's budget. This feature is currently mocked.
-   
-   ![Hotel Suggestions](https://your-image-link.com/screenshot6.png)
+
+** App Screenshots**
+
+<img alt="App" src="/images/uml/img1.png" title="App"/>  
+<img alt="App" src="/images/uml/img2.png" title="App"/>  
+<img alt="App" src="/images/uml/img3.png" title="App"/>  
+<img alt="App" src="/images/uml/im4.png" title="App"/>  
+
 
 ## Installation and Usage
 
