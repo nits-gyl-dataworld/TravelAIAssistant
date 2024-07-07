@@ -14,6 +14,9 @@ The Travel Itinerary Generator App is a tool that helps users plan their trips b
 - **Hotel Suggestions**: The app makes a function call (mocked for this app) to suggest hotels within the user's budget.
 - **Robust Error Handling**: The app includes error handling to manage JSON decoding errors and other potential issues.
 
+## UML Diagrams
+
+
 ## How It Works
 
 1. **User Input**: The user provides the travel destination, start and end dates, and selects their interests.
