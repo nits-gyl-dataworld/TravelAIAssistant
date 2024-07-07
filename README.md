@@ -15,9 +15,11 @@ The Travel Itinerary Generator App is a tool that helps users plan their trips b
 - **Robust Error Handling**: The app includes error handling to manage JSON decoding errors and other potential issues.
 
 ## UML Diagrams
-
+![Component Diagram]
 <img alt="Component Diagram" src="/images/uml/img1.png" title="Component Diagram"/>
+![User Activity Diagram]
 <img alt="Component Diagram" src="/images/uml/img2.png" title="User Activity Diagram"/>
+![Sequence Diagram]
 <img alt="Component Diagram" src="/images/uml/img3.png" title="Sequence Diagram"/>
 
 ## How It Works
