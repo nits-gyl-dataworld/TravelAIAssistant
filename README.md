@@ -16,6 +16,9 @@ The Travel Itinerary Generator App is a tool that helps users plan their trips b
 
 ## UML Diagrams
 
+<img alt="Component Diagram" src="/images/uml/img1.png" title="Component Diagram"/>
+<img alt="Component Diagram" src="/images/uml/img2.png" title="User Activity Diagram"/>
+<img alt="Component Diagram" src="/images/uml/img3.png" title="Sequence Diagram"/>
 
 ## How It Works
 
