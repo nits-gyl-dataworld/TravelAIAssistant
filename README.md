@@ -44,3 +44,5 @@ To run the Travel Itinerary Generator App, follow these steps:
    ```bash
    git clone https://github.com/yourusername/travel-itinerary-generator.git
    cd travel-itinerary-generator
+2. **Set OpenAI API Key**: export OPENAI_API_KEY='your-api-key-here'
+3. **Run the App**:streamlit run app.py
